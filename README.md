@@ -41,7 +41,7 @@ pip install -r requirements.txt
    ```
 2. **Navigate to the project directory:**
    ```
-   cd amazon-rank-tracker
+   cd amazon-sp-rank-tracker
    ```
 3. **Run the application:**
    ```
