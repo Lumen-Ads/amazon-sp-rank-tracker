@@ -1,0 +1,8 @@
+PyQt5
+selenium
+pandas
+beautifulsoup4
+webdriver-manager
+xlsxwriter
+fake-useragent
+openpyxl
