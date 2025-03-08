@@ -100,4 +100,4 @@ SOFTWARE.
 
 ## Learn More
 
-For expert insights on **Amazon marketing** and **eCommerce marketing strategies**, visit **[Lumen Ads](https://www.lumenads.in)**.
+For expert insights on **Amazon marketing** and **eCommerce marketing strategies**, visit **[Cliqby](https://cliqby.com)**.
