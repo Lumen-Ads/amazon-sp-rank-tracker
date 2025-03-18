@@ -45,7 +45,7 @@ pip install -r requirements.txt
    ```
 3. **Run the application:**
    ```
-   python src/main.py
+   python main.py
    ```
 4. **Upload your Excel file**, start tracking, and download results.
 
